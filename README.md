@@ -1,2 +1,5 @@
-# SlidyBoi
- Project for the development of my slideboard
+Slideboard dissertation Submission
+
+This project requires the use of Vive tracking pucks and some form of sliding surface to use
+
+builds are stored under the folder "Builds" and include the tutorial and the full demo experience.
