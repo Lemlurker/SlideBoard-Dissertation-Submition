@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - FxTemporaire
+  - Terrain
+  - Road
+  - Checkpoint
+  - Uphill
+  - Downhill
+  - Boost
+  - Waypoint
+  - CarSpawn1
+  - CarPullZone
+  - GrabArea
+  - TutorialZoneProgress
+  - InTutorial
+  - TransitionZone
+  - HaltZone
+  - Device1
+  - Device2
+  - Device3
+  - Device4
+  - Device5
+  - Device6
+  - Device7
+  - Device8
+  - Device9
+  - Device10
+  - Device11
+  - Device12
+  - Device13
+  - Device14
+  - Device15
+  - Device16
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - StereoRender_Ignore
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

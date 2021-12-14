@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: c7046c1ed80ae34428c6b97f2a9979f2
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 866895261124180689
+    second: HMD_0|Controller_4|Take 001|Layer0
+  - first:
+      74: -5936267153474959477
+    second: HMD_0|Controller_5|Take 001|Layer0
+  - first:
+      74: 1841326469940620740
+    second: HMD_0|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -2229111841163982449
+    second: HMD_0|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 6811889438155653492
+    second: HMD_0|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 1137609579247328140
+    second: HMD_0|HMD_0|Take 001|Layer0
+  - first:
+      74: -4834465098272417187
+    second: HMD_0|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -6342066291823088135
+    second: HMD_0|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: -4758137980855377223
+    second: Controller_4|Controller_4|Take 001|Layer0
+  - first:
+      74: -7780017737831170136
+    second: Controller_4|Controller_5|Take 001|Layer0
+  - first:
+      74: -7836685867765977348
+    second: Controller_4|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -5172501179028787538
+    second: Controller_4|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: -3495780327219204106
+    second: Controller_4|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 9191332125079484340
+    second: Controller_4|HMD_0|Take 001|Layer0
+  - first:
+      74: 7241028372253632668
+    second: Controller_4|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -7470959580166714520
+    second: Controller_4|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: 4395073282072878235
+    second: Controller_5|Controller_4|Take 001|Layer0
+  - first:
+      74: 7742785233595916442
+    second: Controller_5|Controller_5|Take 001|Layer0
+  - first:
+      74: -2698833759239243300
+    second: Controller_5|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: 3461167643008694819
+    second: Controller_5|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 6062892608066859971
+    second: Controller_5|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: -4982356578501031098
+    second: Controller_5|HMD_0|Take 001|Layer0
+  - first:
+      74: 8000659122941010407
+    second: Controller_5|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: 2453655000454015755
+    second: Controller_5|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: -327137189905476787
+    second: Generic_Tracker_1|Controller_4|Take 001|Layer0
+  - first:
+      74: 160396521678342075
+    second: Generic_Tracker_1|Controller_5|Take 001|Layer0
+  - first:
+      74: -1000154415891530887
+    second: Generic_Tracker_1|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -7796935014042232762
+    second: Generic_Tracker_1|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 7283497730597085774
+    second: Generic_Tracker_1|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: -3595207166965482378
+    second: Generic_Tracker_1|HMD_0|Take 001|Layer0
+  - first:
+      74: -9040225717667314149
+    second: Generic_Tracker_1|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -7439612356954875447
+    second: Generic_Tracker_1|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: 722666369317670633
+    second: Generic_Tracker_2|Controller_4|Take 001|Layer0
+  - first:
+      74: 8895846737159594739
+    second: Generic_Tracker_2|Controller_5|Take 001|Layer0
+  - first:
+      74: -2349197129020433433
+    second: Generic_Tracker_2|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -5356555689370308764
+    second: Generic_Tracker_2|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 3519327314526482905
+    second: Generic_Tracker_2|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: -9046441103596233002
+    second: Generic_Tracker_2|HMD_0|Take 001|Layer0
+  - first:
+      74: -8670470047838329356
+    second: Generic_Tracker_2|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -1169925880141883907
+    second: Generic_Tracker_2|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: -3339699051413070215
+    second: Generic_Tracker_3|Controller_4|Take 001|Layer0
+  - first:
+      74: -1128018617822422976
+    second: Generic_Tracker_3|Controller_5|Take 001|Layer0
+  - first:
+      74: -7170385435540573087
+    second: Generic_Tracker_3|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -8956184179294741813
+    second: Generic_Tracker_3|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: -6312294488430923066
+    second: Generic_Tracker_3|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: -7832466294575292643
+    second: Generic_Tracker_3|HMD_0|Take 001|Layer0
+  - first:
+      74: -5645926235304663123
+    second: Generic_Tracker_3|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -3066059253617461229
+    second: Generic_Tracker_3|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: 466948448970195806
+    second: TrackingReference_6|Controller_4|Take 001|Layer0
+  - first:
+      74: 920867137389898989
+    second: TrackingReference_6|Controller_5|Take 001|Layer0
+  - first:
+      74: 4841895881740680724
+    second: TrackingReference_6|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: 8492887624631249561
+    second: TrackingReference_6|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 3803953216392843443
+    second: TrackingReference_6|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 38986604715371489
+    second: TrackingReference_6|HMD_0|Take 001|Layer0
+  - first:
+      74: -5492280707678546000
+    second: TrackingReference_6|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: 5778005222458447103
+    second: TrackingReference_6|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: 7332465195678497
+    second: TrackingReference_7|Controller_4|Take 001|Layer0
+  - first:
+      74: 6940658684708647075
+    second: TrackingReference_7|Controller_5|Take 001|Layer0
+  - first:
+      74: 8767086640431438747
+    second: TrackingReference_7|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: 6760896113870925173
+    second: TrackingReference_7|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: -5475146526191471600
+    second: TrackingReference_7|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 8042798520148971759
+    second: TrackingReference_7|HMD_0|Take 001|Layer0
+  - first:
+      74: 5012035978258001786
+    second: TrackingReference_7|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -1195534266660994713
+    second: TrackingReference_7|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: -917655777211444310
+    second: LeftHand|Controller_4|Take 001|Layer0
+  - first:
+      74: 8312201045541997222
+    second: LeftHand|Controller_5|Take 001|Layer0
+  - first:
+      74: -595447673979965144
+    second: LeftHand|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: 7653085715481763653
+    second: LeftHand|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: 2737697197994215623
+    second: LeftHand|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 480874121631640461
+    second: LeftHand|HMD_0|Take 001|Layer0
+  - first:
+      74: 9057867056162132483
+    second: LeftHand|LeftHand|Take 001|Layer0
+  - first:
+      74: 4066182417608055795
+    second: LeftHand|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: 1052252289542735864
+    second: LeftHand|TrackingReference_7|Take 001|Layer0
+  - first:
+      74: -5673219562611218814
+    second: RightHand|Controller_4|Take 001|Layer0
+  - first:
+      74: 5347288220171861507
+    second: RightHand|Controller_5|Take 001|Layer0
+  - first:
+      74: -1935762488641178233
+    second: RightHand|Generic_Tracker_1|Take 001|Layer0
+  - first:
+      74: -5436566363313154513
+    second: RightHand|Generic_Tracker_2|Take 001|Layer0
+  - first:
+      74: -7647224886600930081
+    second: RightHand|Generic_Tracker_3|Take 001|Layer0
+  - first:
+      74: 5752461930612667606
+    second: RightHand|HMD_0|Take 001|Layer0
+  - first:
+      74: 7603929431727271330
+    second: RightHand|RightHand|Take 001|Layer0
+  - first:
+      74: 7205323502198621723
+    second: RightHand|TrackingReference_6|Take 001|Layer0
+  - first:
+      74: -188030192225256378
+    second: RightHand|TrackingReference_7|Take 001|Layer0
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
